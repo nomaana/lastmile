@@ -1,0 +1,23 @@
+export const GoldenGrass = '#E3AA2D';
+export const favourite = '#e21b1b';
+export const green = '#0cbe7a';
+export const grey = '#999999';
+export const primary = '#790000';
+export const google = '#de3840';
+export const disable = 'rgba(121, 0, 0, 0.4)';
+export const white = '#FFFFFF';
+export const greyshade = '#d5d5d5';
+export const red = '#F44337';
+export const darkgrey = '#333333';
+export const lightgrey = '#555555';
+export const blue = '#1b4f8d';
+
+// export const maroon = '#790000';
+// export const lightGreysa = '#D5D5D5';
+// export const nightRider = '#333333';
+// export const MidnightBlue = '#1B468D';
+// export const NavyBlue = '#004dff';
+// export const approxBlack = '#111111';
+// export const gainsboro = '#d8d8d8';
+// export const orange = '#e86b11';
+// export const darkblue = '#1B468D';
